@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @frenchopium
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Currently learning : 
+[![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 
-<!---
-frenchopium/frenchopium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Using :
+[![My Skills](https://skillicons.dev/icons?i=idea,jenkins,mongodb,mysql,vscode,vscodium,sublime,figma,robloxstudio&theme=dark)](https://skillicons.dev)
+
+Languages i know already:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,discordjs,ts,lua&theme=dark)](https://skillicons.dev)
