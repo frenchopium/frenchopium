@@ -7,6 +7,9 @@ Développeur passionné par Java, Python et C++. J'adore explorer de nouvelles t
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
+## 📫 Me contacter
+- 🌐 [interverti.fr](https://interverti.fr/)
+- 📧 Email : [contact@interverti.fr](mailto:contact@interverti.fr)
 
 ## 📊 Mes stats GitHub
 
@@ -18,8 +21,3 @@ Développeur passionné par Java, Python et C++. J'adore explorer de nouvelles t
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenchopium&theme=dark&layout=compact" />
 </a>
 </div>
-
-
-## 📫 Me contacter
-- 🌐 [interverti.fr](https://interverti.fr/)
-- 📧 Email : [contact@interverti.fr](mailto:contact@interverti.fr)
