@@ -17,6 +17,7 @@ Développeur passioné par le Java. J'adore explorer de nouvelles technologies e
 </a>
 </div>
 
+
 ## 🌟 Projets phares
 - **[Discord Delete Slash Commands](https://github.com/frenchopium/discord-delete-slash-commands)** : Un script python pour supprimer les slash commands d'un bot Discord.
 - **[instaWiper](https://github.com/frenchopium/instaWiper)** : Un project python pour automatiser des taches instagram que j'ai mis a jour.
