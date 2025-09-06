@@ -8,7 +8,14 @@ Développeur passioné par le Java. J'adore explorer de nouvelles technologies e
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ## 📊 Mes stats GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frenchopium&show_icons=true&theme=dark)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=frenchopium&theme=dark">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=frenchopium&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=frenchopium&theme=dark&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenchopium&theme=dark&layout=compact" />
+</a>
+</div>
 
 ## 🌟 Projets phares
 - **[Discord Delete Slash Commands](https://github.com/frenchopium/discord-delete-slash-commands)** : Un script python pour supprimer les slash commands d'un bot Discord.
