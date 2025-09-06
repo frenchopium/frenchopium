@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis [Riwen] !
+# 👋 Bonjour, je suis Riwen!
 
 Développeur passioné par le Java. J'adore explorer de nouvelles technologies et contribuer à l'open-source.
 
