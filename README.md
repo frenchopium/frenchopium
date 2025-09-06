@@ -10,15 +10,14 @@ Développeur passionné par Java, Python et C++. J'adore explorer de nouvelles t
 
 ## 📊 Mes stats GitHub
 
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=frenchopium&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=frenchopium&theme=dark" alt="GitHub Stats" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=frenchopium&theme=dark&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenchopium&theme=dark&layout=compact" alt="Top Languages" />
-  </a>
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=frenchopium&theme=dark">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=frenchopium&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=frenchopium&theme=dark&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenchopium&theme=dark&layout=compact" />
+</a>
 </div>
-
 ## 📫 Me contacter
 - 🌐 [interverti.fr](https://interverti.fr/)
 - 📧 Email : [contact@interverti.fr](mailto:contact@interverti.fr)
