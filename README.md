@@ -8,7 +8,6 @@ Développeur passionné par Java, Python et C++. J'adore explorer de nouvelles t
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ## 📫 Me contacter
-- 🌐 [interverti.fr](https://interverti.fr/)
 - 📧 Email : [contact@interverti.fr](mailto:contact@interverti.fr)
 
 ## 📊 Mes stats GitHub
