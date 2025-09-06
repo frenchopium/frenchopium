@@ -1,12 +1,11 @@
-# 👋 Bonjour, je suis Riwen !
+# 👋 Hi, I'm Riwen!
+I'm a developer with a passion for Java, Python and C++. I love exploring new technologies and contributing to open-source. 🚀
 
-Développeur passionné par Java, Python et C++. J'adore explorer de nouvelles technologies et contribuer à l'open-source. 🚀
-
-## 🔧 Languages
+## 🔧 Programming Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenchopium&theme=github_dark&layout=compact)
 
-## 📊 Mes stats GitHub
+## 📊 My GitHub stats
  ![Riwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchopium&theme=github_dark&show_icons=true)
 
-## 📫 Me contacter
+## 📫 Contact me
 - 📧 Email : [contact@interverti.fr](mailto:contact@interverti.fr)
