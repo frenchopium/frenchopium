@@ -7,9 +7,9 @@ I'm a developer passionate about **Java**, **Python**, and **C++**, always explo
 ## 🔧 Tech Stack
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frenchopium&theme=github_dark&layout=compact&hide_border=true)
 
-- **Java**: Scalable apps
+- **Java**: Minecraft developpement
 - **Python**: Automation & data
-- **C++**: High-performance systems
+- **C++**: Cheats, Gameservers, Offsets
 
 ---
 
