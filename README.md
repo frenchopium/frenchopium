@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Riwen!
 
-I'm a developer passionate about **Java**, **Python**, and **C++**, always exploring new tech and contributing to open-source. 🚀 Studying **2ᵉ MTNE** in France. 📚
+I'm a developer passionate about **Java**, **Python**, and **C++**, always exploring new tech and contributing to open-source. 
+🚀 Studying in **2ᵉ MTNE** in France. 📚
 
 ---
 
